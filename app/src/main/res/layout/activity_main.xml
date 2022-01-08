@@ -25,5 +25,5 @@
         android:padding="5dp"
         android:scrollbars="vertical" />
 
-]
+
 </RelativeLayout>

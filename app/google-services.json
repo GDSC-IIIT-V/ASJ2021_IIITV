@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:793323301506:android:f0fcec5b67afacf42ee29b",
+        "mobilesdk_app_id": "1:793323301506:android:90ec63f15b0c3fd62ee29b",
         "android_client_info": {
-          "package_name": "com.ASJ.IIITV"
+          "package_name": "com.asj.iiitv_asj"
         }
       },
       "oauth_client": [
