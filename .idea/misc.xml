@@ -3,13 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/kothari/AndroidStudioProjects/ASJ2021_IIITV/app/src/main/res/drawable-v24/spinner_bg.xml" value="0.22552083333333334" />
-        <entry key="..\:/Users/kothari/AndroidStudioProjects/ASJ2021_IIITV/app/src/main/res/layout/activity_main.xml" value="0.209375" />
-        <entry key="..\:/Users/kothari/AndroidStudioProjects/ASJ2021_IIITV/app/src/main/res/menu/menumain.xml" value="0.209375" />
+        <entry key="..\:/ASJ2021_IIITV/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/ASJ2021_IIITV/app/src/main/res/layout/activity_topic_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/ASJ2021_IIITV/app/src/main/res/layout/activity_topiv_view.xml" value="0.16145833333333334" />
+        <entry key="..\:/ASJ2021_IIITV/app/src/main/res/layout/category_item.xml" value="0.17552083333333332" />
       </map>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

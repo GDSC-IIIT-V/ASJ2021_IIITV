@@ -68,4 +68,27 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:29.0.3')
     implementation 'com.google.firebase:firebase-analytics-ktx'
     implementation 'com.google.firebase:firebase-database-ktx'
+
+    implementation("androidx.room:room-runtime:2.4.0")
+    annotationProcessor("androidx.room:room-compiler:2.4.0")
+
+
+    // optional - Kotlin Extensions and Coroutines support for Room
+    implementation("androidx.room:room-ktx:2.4.0")
+
+    // optional - RxJava2 support for Room
+    implementation("androidx.room:room-rxjava2:2.4.0")
+
+    // optional - RxJava3 support for Room
+    implementation("androidx.room:room-rxjava3:2.4.0")
+
+    // optional - Guava support for Room, including Optional and ListenableFuture
+    implementation("androidx.room:room-guava:2.4.0")
+
+    // optional - Test helpers
+    testImplementation("androidx.room:room-testing:2.4.0")
+
+    // optional - Paging 3 Integration
+    implementation("androidx.room:room-paging:2.4.0")
+
 }
