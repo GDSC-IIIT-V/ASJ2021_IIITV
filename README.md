@@ -25,4 +25,4 @@ App is currently in development phase as functionality is complete but we need
 to work on designs and after that we will try to implement some fetatures like 
 blog writing,content posting in app related to education genres itself
 
-Link to apk file: 
+Link to apk file: https://github.com/GDSC-IIIT-V/ASJ_Submition_Apk.git
