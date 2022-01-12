@@ -11,7 +11,7 @@ We built a database where we will regularly add fresh and amazing resources to a
 built an application that will sort those playlists and 
 help users learn everything freely and efficiently
 
-<img width="559" alt="sampleimages" src="https://drive.google.com/file/d/1K998CViu5ovY7WT5o1tDQv6g0lia7XbQ/view?usp=sharing">
+<img width="559" alt="sampleimages" src="New Project.png">
 
 <b> Functionality & Concepts used : </b>
 - The app starts with an activity displaying different genres in a recycler view using viewModel and livedata
